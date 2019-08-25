@@ -1,13 +1,13 @@
 # Tic Tac Toe Current Player
 
 ## Objectives
-
 1. Use iteration to loop over an array.
 2. Control the return value of a method that uses iteration in the method body.
 3. Describe and utilize the `%`, or modulo, operator.
 4. Call a method from inside of another method.
 
 ## Overview
+
 
 So far, we have built a tic tac toe game that only places `"X"`'s on the board. I don't know about you, but I am not interested in playing that game. We need our game to know whose turn it is and place an `"X"` or an `"O"` on the board accordingly.
 
